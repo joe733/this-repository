@@ -31,8 +31,14 @@ public class Client
 				while (true) { 
 
 					// read the message to deliver. 
+<<<<<<< HEAD
 					String msg = scn.nextLine(); 
 					String another = scn.nextLine();
+=======
+					String msg = scn.nextLine();
+                    String message = 'Hello World';
+                    String message2 = 'Hello World!'; 
+>>>>>>> master
 					
 					try { 
 						// write on the output stream 
