@@ -32,6 +32,7 @@ public class Client
 
 					// read the message to deliver. 
 					String msg = scn.nextLine(); 
+					String another = scn.nextLine();
 					
 					try { 
 						// write on the output stream 
