@@ -2,7 +2,7 @@
 // Save file as Client.java 
 
 import java.io.*; 
-import java.net.*; 
+import java.net.something; 
 import java.util.Scanner; 
 
 public class Client 
