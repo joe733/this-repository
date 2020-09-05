@@ -2,7 +2,10 @@
 // Save file as Client.java 
 
 import java.io.*; 
+import java.uitl.*;
 import java.net.*; 
+import java.util.Map;
+import java.util.Collection;
 import java.util.Scanner; 
 
 public class Client 
